@@ -1,0 +1,3 @@
+/Users/herzeig/CLionProjects/HC2020Final/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/herzeig/CLionProjects/HC2020Final/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/herzeig/CLionProjects/HC2020Final/cmake-build-debug/CMakeFiles/HC2020Final.dir
